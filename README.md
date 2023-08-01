@@ -20,6 +20,14 @@ O dataset a ser utilizado nesse cenário (.zip com arquivo CSV) você encontra <
 
 Temos um apreço muito grande por qualidade e disponibilidade. Sendo assim, é bom contarmos com métricas para nos previnir e alertar sobre quaisquer problemas bem como metrificar e monitorar as arquiteturas proposta. Logo, apreciamos se você conseguir entregar testes que mensurem a qualidade dos dados junto à sua solução desse primeiro entregável.
 
+## Dados
+
+| Table            | Total Rows | Total Columns                                              |
+| -----------------|:--------:  | :---------------------------------------------------------:|
+| Orders           | 9994       | 21                                                         |
+| People           | 4          | 2                                                          |
+| Returns          | 296        | 2                                                          |
+
 ## Cenário II
 
 O segundo entregável consiste na transformação de dados disponíveis em <a href="https://drive.google.com/file/d/1IDCjpDZh5St97jw4K_bAewJ8hf-rax9C/view?usp=sharing">arquivo Json</a> para o formato de dataframe, algo comum no dia a dia da empresa. Após transformar esse Json em dataframe é possível perceber que a coluna "item_list" está como dicionário. Seu gestor pediu dois pontos de atenção nessa tarefa:
@@ -49,14 +57,6 @@ Temos então quatro entregáveis:
 - Arquitetura AWS, Azure, GCP ou outras.
 
 Não se esqueça de fornecer comentários a respeito da implementações propostas e melhorias (desenvolvimento incremental). Queremos entender melhor como foi seu processo de solução de problemas, quais as hipóteses levantadas e, se tivesse mais tempo, como você poderia melhorar a implementação proposta.
-
-## Dados
-
-| Table            | Total Rows | Total Columns                                              |
-| -----------------|:--------:  | :---------------------------------------------------------:|
-| Orders           | 9994       | 21                                                         |
-| People           | 4          | 2                                                          |
-| Returns          | 296        | 2                                                          |
 
 ## O que será avaliado?
 
