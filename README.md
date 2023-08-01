@@ -39,13 +39,13 @@ O segundo entregável consiste na transformação de dados disponíveis em <a hr
 
 Classificação de imagens para determinar se é dia ou noite:
 
-Nesta tarefa, você candidato precisa desenvolver um modelo de aprendizado de máquina capaz de analisar imagens e classificá-las como "dia" ou "noite". Para isso, podem se utilizar de LLMs, como modelos de classificação de imagens pré-treinados, ou mesmo treinar seu próprio modelo a partir de dados rotulados. Aqui verificaremos  o pré-processamento dos dados, extração de características relevantes e treinamento de um classificador eficaz. É importante que o conjunto de dados de treinamento seja representativo e variado para garantir que o modelo seja robusto o suficiente para lidar com várias condições de iluminação.
+Nesta tarefa, você candidato precisa desenvolver um modelo de aprendizado de máquina capaz de analisar imagens e classificá-las como "dia" ou "noite". Para isso, podem se utilizar tanto de modelos de classificação de imagens pré-treinados, ou mesmo treinar seu próprio modelo a partir de dados rotulados. Aqui verificaremos o pré-processamento dos dados, extração de características relevantes e treinamento de um classificador eficaz. É importante que o conjunto de dados de treinamento seja representativo e variado para garantir que o modelo seja robusto o suficiente para lidar com várias condições de iluminação.
 
-<a href="https://drive.google.com/file/d/1ifdwWBWpVYHnU7S4TEBr8nRqtCrR_o2k/view?usp=sharing">Aqui</a> você encontra um notebook exemplo com parte de uma implementação tradicional a partir de dados rotulados do dataset AMOS que pode ser utilizado como ponto de partida para sua solução
+<a href="https://drive.google.com/file/d/1ifdwWBWpVYHnU7S4TEBr8nRqtCrR_o2k/view?usp=sharing">Aqui</a> você encontra um notebook exemplo com parte de uma implementação tradicional a partir de dados rotulados do dataset AMOS que pode ser utilizado como ponto de partida para sua solução.
 
 ## Cenário IV
 
-Como último entregável favor fornecer uma arquitetura de como poderia ser implementada um sistema de detecção de cena completo, baseado no código criado no cenário anterior. Fique a vontade para se utilizar do ecossistema de computação em nuvem o qual se sente mais confiante em trabalhar, procurando usar os serviços nativos sempre que possível. Pense em questões como disponibilidade, catálogo de dados e segurança se achar cabível. Recomendamos o uso do draw.io (https://app.diagrams.net/) ou do excalidraw (https://excalidraw.com/)
+Como último entregável favor fornecer uma arquitetura de como poderia ser implementada um sistema de detecção de cena completo, baseado no código criado no cenário anterior. Fique a vontade para se utilizar do ecossistema de computação em nuvem o qual se sente mais confiante em trabalhar, procurando usar os serviços nativos sempre que possível. Pense em questões como disponibilidade, catálogo de dados e segurança se achar cabível. Recomendamos o uso do draw.io (https://app.diagrams.net/) ou do excalidraw (https://excalidraw.com/).
 
 ## Entregáveis
 
@@ -53,7 +53,7 @@ Temos então quatro entregáveis:
 
 - Relatório com exemplos de anomalias encontradas e possibilidades dentro da sua experiência e com relação aos dados da base;
 - Resolução de problema de transformação de dados (NF-e);
-- Classificador/LLM de imagens para determinar se é dia ou noite:
+- Classificador de imagens para determinar se é dia ou noite:
 - Arquitetura AWS, Azure, GCP ou outras.
 
 Não se esqueça de fornecer comentários a respeito da implementações propostas e melhorias (desenvolvimento incremental). Queremos entender melhor como foi seu processo de solução de problemas, quais as hipóteses levantadas e, se tivesse mais tempo, como você poderia melhorar a implementação proposta.
