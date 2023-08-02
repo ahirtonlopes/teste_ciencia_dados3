@@ -43,6 +43,8 @@ Nesta tarefa, você candidato precisa desenvolver um modelo de aprendizado de m�
 
 <a href="https://drive.google.com/file/d/1ifdwWBWpVYHnU7S4TEBr8nRqtCrR_o2k/view?usp=sharing">Aqui</a> você encontra um notebook exemplo com parte de uma implementação tradicional a partir de dados rotulados do dataset AMOS que pode ser utilizado como ponto de partida para sua solução.
 
+<a href="https://drive.google.com/drive/folders/1ybT-Teol8tE_XC62uWaF62h9WTCAKnNr?usp=sharing">Aqui</a> , link para versão do dataset de imagens AMOS.
+
 ## Cenário IV
 
 Como último entregável favor fornecer uma arquitetura de como poderia ser implementada um sistema de detecção de cena completo, baseado no código criado no cenário anterior. Fique a vontade para se utilizar do ecossistema de computação em nuvem o qual se sente mais confiante em trabalhar, procurando usar os serviços nativos sempre que possível. Pense em questões como disponibilidade, catálogo de dados e segurança se achar cabível. Recomendamos o uso do draw.io (https://app.diagrams.net/) ou do excalidraw (https://excalidraw.com/).
